@@ -1,0 +1,1 @@
+validate GIT with Docker
